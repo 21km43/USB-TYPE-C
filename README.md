@@ -1,5 +1,5 @@
 # USB-TYPE-C
-USB Type-C Board
+USB Type-C Device board
 
 This project is made with [KiCAD](https://kicad.org).
 
